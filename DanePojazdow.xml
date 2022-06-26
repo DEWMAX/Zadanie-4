@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kategorie>
+	<grupa>
+		<szczegóły>
+			<nazwa>Osobówki</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opis>
+Marka: Hyundai
+Koncern macierzysty: Korea
+Data powstania: 16.05.2004
+Kraj produkcji: Korea
+			</opis>
+			<nazwa>Hyundai</nazwa>
+			<model>Coupe</model>
+			<rok>2004</rok>
+			<pojemność>2.0</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>10.04.2005</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>210 000</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>143KM</moc>
+			<skrzynia>manualna 5 biegowa</skrzynia>
+			<miejsca>4</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Mazda
+Koncern macierzysty: Japonia
+Data powstania: 04.05.2004
+Kraj produkcji: Japonia
+			</opis>
+			<nazwa>Mazda</nazwa>
+			<model>RX-8</model>
+			<rok>2005</rok>
+			<pojemność>1.3</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>4</drzwi>
+			<kraj>Japonia</kraj>
+			<pierwszarejestracja>01.03.2005</pierwszarejestracja>
+			<kolor>srebrny</kolor>
+			<przebieg>60 000</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>250KM</moc>
+			<skrzynia>manualna 5 biegowa</skrzynia>
+			<miejsca>4</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: BMW
+Koncern macierzysty: Niemcy
+Data powstania: 2000
+Kraj produkcji: Niemcy,
+			</opis>
+			<nazwa>BMW</nazwa>
+			<model>E 36</model>
+			<rok>2000</rok>
+			<pojemność>2.0</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>5</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>02.05.1999</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>450 000</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>110KM</moc>
+			<skrzynia>manualna 5 biegowa</skrzynia>
+			<miejsca>5</miejsca>
+		</pojazd>
+	</grupa>
+	<grupa>
+		<szczegóły>
+			<nazwa>Ciężarówki</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opis>
+Marka: Scania
+Koncern macierzysty: Węgry
+Data powstania: 2010
+Kraj produkcji: Węgry,
+			</opis>
+			<nazwa>Scania</nazwa>
+			<model>X502</model>
+			<rok>2010</rok>
+			<pojemność>8</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>3</drzwi>
+			<kraj>Węgry</kraj>
+			<pierwszarejestracja>04.03.2011</pierwszarejestracja>
+			<kolor>czerwony</kolor>
+			<przebieg>500 000</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>340KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Man
+Koncern macierzysty: Rumunia
+Data powstania: 2000
+Kraj produkcji: Czechy
+			</opis>
+			<nazwa>Man</nazwa>
+			<model>VV200</model>
+			<rok>2000</rok>
+			<pojemność>10.7</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>3</drzwi>
+			<kraj>Czechy</kraj>
+			<pierwszarejestracja>01.02.2000</pierwszarejestracja>
+			<kolor>srebrny</kolor>
+			<przebieg>2 500 000</przebieg>
+			<paliwo>diesel</paliwo>
+			<moc>360KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Scania
+Koncern macierzysty: Dania
+Data powstania: 2022
+Kraj produkcji: Dania
+			</opis>
+			<nazwa>Scania</nazwa>
+			<model>HQQQQ 7000</model>
+			<rok>2022</rok>
+			<pojemność>-</pojemność>
+			<napęd>przód</napęd>
+			<drzwi>2</drzwi>
+			<kraj>Dania</kraj>
+			<pierwszarejestracja>05.02.2022</pierwszarejestracja>
+			<kolor>złoty</kolor>
+			<przebieg>149 027</przebieg>
+			<paliwo>elektryk</paliwo>
+			<moc>600KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>3</miejsca>
+		</pojazd>
+	</grupa>
+	<grupa>
+		<szczegóły>
+			<nazwa>Motocykle</nazwa>
+		</szczegóły>
+		<pojazd>
+			<opis>
+Marka: BMW
+Koncern macierzysty: Niemcy
+Data powstania: 20.12.2008
+Kraj produkcji: Niemcy
+			</opis>
+			<nazwa>BMW</nazwa>
+			<model>ZXY 600</model>
+			<rok>2008</rok>
+			<pojemność>-</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Niemcy</kraj>
+			<pierwszarejestracja>24.07.2009</pierwszarejestracja>
+			<kolor>szary</kolor>
+			<przebieg>2 000</przebieg>
+			<paliwo>elektryk</paliwo>
+			<moc>100KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Suzuki
+Koncern macierzysty: Japonia
+Data powstania: 10.07.2009
+Kraj produkcji: Japonia
+			</opis>			
+			<nazwa>Suzuki</nazwa>
+			<model>X200 proto</model>
+			<rok>2009</rok>
+			<pojemność>0.8</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Japonia</kraj>
+			<pierwszarejestracja>10.04.2010</pierwszarejestracja>
+			<kolor>czarny</kolor>
+			<przebieg>20 000</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>165KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Junak
+Koncern macierzysty: Rosja
+Data powstania: 07.09.2001
+Kraj produkcji: Rosja
+			</opis>
+			<nazwa>Junak</nazwa>
+			<model>opti</model>
+			<rok>2001</rok>
+			<pojemność>1.0</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Belgia</kraj>
+			<pierwszarejestracja>01.05.2003</pierwszarejestracja>
+			<kolor>różowy</kolor>
+			<przebieg>42 000</przebieg>
+			<paliwo>benzyna</paliwo>
+			<moc>99KM</moc>
+			<skrzynia>manualna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+		<pojazd>
+			<opis>
+Marka: Kawasaki
+Koncern macierzysty: Japonia
+Data powstania: 03.10.1909
+Kraj produkcji: Korea
+			</opis>
+			<nazwa>Kawasaki</nazwa>
+			<model>GTR-R</model>
+			<rok>2020</rok>
+			<pojemność>-</pojemność>
+			<napęd>tył</napęd>
+			<drzwi>-</drzwi>
+			<kraj>Polska</kraj>
+			<pierwszarejestracja>09.04.20022</pierwszarejestracja>
+			<kolor>niebieski</kolor>
+			<przebieg>3 000</przebieg>
+			<paliwo>elektryk</paliwo>
+			<moc>204KM</moc>
+			<skrzynia>automatyczna</skrzynia>
+			<miejsca>1</miejsca>
+		</pojazd>
+	</grupa>
+</kategorie>

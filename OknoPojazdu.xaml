@@ -1,0 +1,146 @@
+﻿<Window x:Class="Zadanie4.OknoPojazdu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie4"
+        mc:Ignorable="d"
+        Title="OknoProduktu"
+        Height="650"
+        Width="500"
+        FontSize="24"
+        >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Label>Nazwa:</Label>
+        <TextBlock
+            Grid.Column="1"
+            Text="{Binding XPath=nazwa}"
+            />
+        <Label Grid.Row="1">
+            Model:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="1"
+            Text="{Binding XPath=model}"
+            />
+        <Label Grid.Row="2">
+            Rok produkcji:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="2"
+            Text="{Binding XPath=rok}"
+            />
+
+        <Label Grid.Row="3">
+            Pojemność silnika:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="3"
+            Text="{Binding XPath=pojemność}"
+            />
+        <Label Grid.Row="4">
+            Rodzaj napędu:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="4"
+            Text="{Binding XPath=napęd}"
+            />
+        <Label Grid.Row="5">
+            Liczba drzwi:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="5"
+            Text="{Binding XPath=drzwi}"
+            />
+        <Label Grid.Row="6">
+            Kraj produkcji:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="6"
+            Text="{Binding XPath=kraj}"
+            />
+        <Label Grid.Row="7">
+            Pierwsza rejestracja:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="7"
+            Text="{Binding XPath=pierwszarejestracja}"
+            />
+        <Label Grid.Row="8">
+            Kolor:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="8"
+            Text="{Binding XPath=kolor}"
+            />
+        <Label Grid.Row="9">
+            Przebieg:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="9"
+            Text="{Binding XPath=przebieg}"
+            />
+        <Label Grid.Row="10">
+            Rodzaj paliwa:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="10"
+            Text="{Binding XPath=paliwo}"
+            />
+        <Label Grid.Row="11">
+            Moc:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="11"
+            Text="{Binding XPath=moc}"
+            />
+        <Label Grid.Row="12">
+            Skrzynia biegów:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="12"
+            Text="{Binding XPath=skrzynia}"
+            />
+        <Label Grid.Row="13">
+            Liczba miejsc:
+        </Label>
+        <TextBlock
+            Grid.Column="1"
+            Grid.Row="13"
+            Text="{Binding XPath=miejsca}"
+            />
+    </Grid>
+</Window>

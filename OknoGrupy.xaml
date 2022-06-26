@@ -1,0 +1,41 @@
+﻿<Window x:Class="Zadanie4.OknoGrupy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie4"
+        mc:Ignorable="d"
+        Title="OknoGrupy"
+        Height="750"
+        Width="800"
+        FontSize="24"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <TextBlock
+            Text="{Binding XPath=szczegóły}"
+            />
+        <ListBox
+            Grid.Row="1"
+            Name="Lista"
+            ItemsSource="{Binding XPath=pojazd}"
+            >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock
+                        Text="{Binding XPath=opis}"
+                        />
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button
+            Grid.Row="2" Click="Widok"
+            >
+            Szczegóły
+        </Button>
+    </Grid>
+</Window>
